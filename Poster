@@ -1,0 +1,38 @@
+A professional, ultra-high-resolution enterprise tech architecture infographic poster for a project named "AI Banking Policy Assistant".
+
+Overall Layout & Style:
+- Professional corporate fintech aesthetic, crisp white and dark navy glassy cards, vibrant neon indigo, cyan, violet, and emerald accents, futuristic UI/UX elements, clean infographic grid hierarchy, 8k resolution, vector-style clean typography.
+
+Header Section (Top):
+- Top-left header: Big bold modern typography "AI Banking Policy Assistant" with gradient text (indigo to cyan).
+- Sub-headline: "QUERY SMARTER. COMPLY FASTER. ZERO-HALLUCINATION RAG."
+- One-line description: "An enterprise-grade Retrieval-Augmented Generation (RAG) banking policy intelligence hub with PyMuPDF ingestion, ChromaDB vector grounding, real-time page citations, and multilingual Hinglish Q&A."
+- Tech Pill Badges: [Angular 19] [FastAPI] [MS SQL Server] [ChromaDB] [Capgemini GenAI]
+- Top-right 3D Graphic: A cute, ultra-detailed 3D white and cyan metallic futuristic AI robot mascot holding a glowing digital banking shield with holographic bank circulars, PDF documents, and vector search rings floating around it in a glowing sphere.
+
+Section 2: Core Capabilities (2x2 Grid of Rounded Frosted Glass Cards with vibrant glowing icons):
+- Card 1: [Shield Icon] "Zero-Hallucination Grounding" - Strict policy compliance with guaranteed factual vector verification.
+- Card 2: [Page Citation Icon] "Page-Level Citations" - Exact PDF page numbers, document titles, and relevance match scores.
+- Card 3: [Translate Icon] "Multilingual & Hinglish" - Auto-language detection answering in English, Hinglish, or Hindi.
+- Card 4: [Lock/Key Icon] "Role-Based Governance" - Secure Admin ingestion vs Branch Staff inquiry access control.
+
+Section 3: System Workflow (Horizontal 5-step Flow with glowing blue connecting arrows):
+1. [User / Voice & Chat] "Natural language policy query in English/Hinglish"
+2. [Angular 19 SPA :4200] "Frosted Glassmorphism web UI & citation dock"
+3. [FastAPI Backend :8000] "API orchestration, PyMuPDF parser & JWT RBAC"
+4. [ChromaDB & GenAI Engine] "Cosine vector search & GPT-4o grounded synthesis"
+5. [SQL Server LocalDB] "User credentials, document metadata & private chat sessions"
+
+Bottom Split Section:
+- Bottom-Left (Tech Stack 3x3 Dark Matrix Grid): Icons for Angular 19, TypeScript, Bootstrap Glassmorphism, Python FastAPI, SQLAlchemy, MS SQL Server, ChromaDB, PyMuPDF, Capgemini GenAI.
+- Bottom-Right (Key Highlights List):
+  * "100% Policy Grounding" (Strict anti-hallucination safeguards)
+  * "Instant Citation Modal" (Live page excerpts & match %)
+  * "PyMuPDF Ingestion" (1000/200 recursive chunking)
+  * "Enterprise RBAC Security" (Admin upload vs Staff query)
+  * "Adaptive Hinglish Engine" (Natural tone matching)
+
+Footer Section (Bottom Dark Gradient Banner):
+- Bold Glow Text: "ACCURATE. | COMPLIANT. | ZERO-HALLUCINATION."
+- Subtitle: "Next-Gen Enterprise Banking Policy Intelligence powered by ChromaDB, FastAPI & Capgemini GenAI"
+- Aspect Ratio: 3:4 or 9:16 portrait infographic poster, clean vector graphics, cinematic lighting. --ar 3:4 --v 6.0
